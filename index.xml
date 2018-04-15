@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content</title>
-    <link>http://johwes.github.io/</link>
-    <description>Recent content on Content</description>
+    <title>Kube for Hugo</title>
+    <link>/</link>
+    <description>Recent content on Kube for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Apr 2018 21:42:51 +0200</lastBuildDate>
     
-	<atom:link href="http://johwes.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First</title>
-      <link>http://johwes.github.io/posts/my-first/</link>
-      <pubDate>Sat, 14 Apr 2018 21:42:51 +0200</pubDate>
-      
-      <guid>http://johwes.github.io/posts/my-first/</guid>
-      <description>hejsan testar</description>
-    </item>
     
   </channel>
 </rss>
