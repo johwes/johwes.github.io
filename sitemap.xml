@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/docs/my-new-doc/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/docs/</loc>
     <priority>0</priority>
   </url>
   
